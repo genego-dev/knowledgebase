@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4e45fb4144416dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb687165f5905520",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Technology/programming/resources.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfdcbe06169f5d23",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d3d3d968509aefc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "671f6d2e277b936c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1fc0f4ab225e3b65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "915c81f8ac6e53fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4df4247c131de91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1022ec40eba5353",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technology/programming/resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb687165f5905520",
+  "lastOpenFiles": [
+    "Technology/programming/resources.md",
+    "Technology/programming/python/Untitled.md",
+    "Technology/programming/python/how-to/Untitled.md",
+    "sys-admin/resources.md",
+    "devops/resources.md",
+    "programming/resources.md",
+    "programming/django/resources.md",
+    "sys-admin/linux/hardening.md",
+    "sys-admin/Untitled.md",
+    "programming/django/Untitled.md"
+  ]
+}
